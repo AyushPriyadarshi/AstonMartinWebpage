@@ -1,1 +1,2 @@
 # WEBPAGE MADE USING HTML AND BULMA
+![](Images/webpage.JPG)
